@@ -1,0 +1,5 @@
+[WebServers]
+w.redhat.com
+
+[DbServers]
+d.redhat.com
